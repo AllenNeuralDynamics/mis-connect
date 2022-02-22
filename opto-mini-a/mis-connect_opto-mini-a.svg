@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="mis-connect_opto-mini.svg">
+   sodipodi:docname="mis-connect_opto-mini-a.svg">
   <defs
      id="defs2">
     <marker
@@ -147,7 +147,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="371.17108"
+     inkscape:cx="277.73197"
      inkscape:cy="255.54229"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
@@ -156,7 +156,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1025"
      inkscape:window-x="0"
-     inkscape:window-y="1200"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-global="false" />
   <metadata
@@ -167,7 +167,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -191,7 +191,7 @@
          x="138.03804"
          y="232.90804"
          style="font-size:2.56614184px;text-align:center;text-anchor:middle;fill:none;stroke:#ff0000;stroke-width:0.127;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="tspan1224">opto-mini</tspan><tspan
+         id="tspan1224">opto-mini(a)</tspan><tspan
          sodipodi:role="line"
          x="138.03804"
          y="235.47417"
