@@ -147,8 +147,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="277.73197"
-     inkscape:cy="255.54229"
+     inkscape:cx="297.68082"
+     inkscape:cy="213.95121"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -167,7 +167,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -180,21 +180,21 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.56614184px;line-height:1;font-family:FreeMono;-inkscape-font-specification:FreeMono;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.127;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="138.03804"
-       y="230.34189"
+       y="229.81273"
        id="text1222"><tspan
          sodipodi:role="line"
          id="tspan1220"
          x="138.03804"
-         y="230.34189"
+         y="229.81273"
          style="font-size:2.56614184px;text-align:center;text-anchor:middle;fill:none;stroke:#ff0000;stroke-width:0.127;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">mis-connect</tspan><tspan
          sodipodi:role="line"
          x="138.03804"
-         y="232.90804"
+         y="232.37888"
          style="font-size:2.56614184px;text-align:center;text-anchor:middle;fill:none;stroke:#ff0000;stroke-width:0.127;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan1224">opto-mini(a)</tspan><tspan
          sodipodi:role="line"
          x="138.03804"
-         y="235.47417"
+         y="234.94501"
          style="font-size:2.56614184px;text-align:center;text-anchor:middle;fill:none;stroke:#ff0000;stroke-width:0.127;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan1358">rev 1.0</tspan></text>
     <rect
@@ -258,7 +258,7 @@
        width="115.77467"
        height="36.224701"
        x="43.846256"
-       y="205.9278"
+       y="205.39864"
        rx="5.004899"
        ry="5.0799999" />
     <rect
@@ -279,7 +279,7 @@
        ry="2.54" />
     <g
        id="g1003"
-       transform="translate(0.64705489)">
+       transform="translate(0.64705489,-0.52917048)">
       <g
          transform="translate(22.776565,44.745471)"
          id="g984">
