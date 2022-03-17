@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg8" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 576 432"
+	 style="enable-background:new 0 0 576 432;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FF0000;stroke-width:0.36;stroke-miterlimit:11.3386;}
+	.st1{font-family:'ArialMT';}
+	.st2{font-size:7.2741px;}
+	.st3{fill:none;stroke:#000000;stroke-width:0.288;stroke-miterlimit:11.3386;stroke-dasharray:6.912,6.912;}
+	.st4{fill:none;stroke:#000000;stroke-width:0.2835;stroke-miterlimit:11.3386;stroke-dasharray:3.4016,3.4016;}
+	.st5{fill:none;stroke:#000000;stroke-width:0.576;stroke-miterlimit:11.3386;}
+	.st6{fill:none;stroke:#000000;stroke-width:0.5097;stroke-miterlimit:11.3386;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="layer1" inkscape:cx="297.68082" inkscape:cy="213.95121" inkscape:document-units="in" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-global="false" inkscape:window-height="1025" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="1.979899" pagecolor="#ffffff" showgrid="false" units="in">
+	</sodipodi:namedview>
+<g>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 394.9981 243.7295)" class="st0 st1 st2">mis-connect</text>
+	<text transform="matrix(1 0 0 1 358.0414 184.9054)" class="st0 st1 st2">opto-mini(c)</text>
+	<text transform="matrix(1 0 0 1 366.3256 192.1788)" class="st0 st1 st2">rev 1.0</text>
+	<path id="rect836" class="st3" d="M235.8,276.2h108c11.8,0,21.4,9.6,21.4,21.4l0,0c0,11.8-9.6,21.4-21.4,21.4h-108
+		c-11.8,0-21.4-9.6-21.4-21.4l0,0C214.4,285.7,223.9,276.2,235.8,276.2z"/>
+	<path id="rect968" inkscape:connector-curvature="0" class="st4" d="M203.8,325.1H373v-59.4h-12.6v-36H373V207l-31-31H234.7l-31,31
+		L203.8,325.1z"/>
+	<circle id="path1000" class="st5" cx="229" cy="247.7" r="6.4"/>
+	<circle id="path1000-8" class="st5" cx="347.8" cy="247.7" r="6.4"/>
+	<g id="g1096" transform="rotate(-90,91.955179,322.43127)">
+		<circle id="path1063" class="st4" cx="168.2" cy="478.9" r="6.2"/>
+		<circle id="path1063-5" class="st4" cx="219.5" cy="478.9" r="6.2"/>
+		<circle id="path1063-0" class="st4" cx="168.2" cy="558.5" r="6.2"/>
+		<circle id="path1063-9" class="st4" cx="219.5" cy="558.5" r="6.2"/>
+	</g>
+	<path id="rect1136" class="st6" d="M206.6,172.3h234.8c6.1,0,11.1,6.4,11.1,14.4v73.9c0,8-5,14.4-11.1,14.4H206.6
+		c-6.1,0-11.1-6.4-11.1-14.4v-73.9C195.5,178.8,200.5,172.3,206.6,172.3z"/>
+	<rect id="rect967" x="180.4" y="157.7" class="st3" width="216" height="72"/>
+	<path id="rect979" class="st3" d="M211,229.7h142.2c4,0,7.2,3.2,7.2,7.2v21.6c0,4-3.2,7.2-7.2,7.2H211c-4,0-7.2-3.2-7.2-7.2v-21.6
+		C203.8,232.9,207,229.7,211,229.7z"/>
+	<g id="g968" transform="translate(98.843775,21.56214)">
+		<path id="path977" inkscape:connector-curvature="0" class="st5" d="M323.2,215.7c-6.8,0-12.3,5.5-12.3,12.3
+			c0,4.2,2.1,8.1,5.6,10.3h13.4c3.5-2.3,5.6-6.2,5.6-10.3C335.5,221.3,330,215.7,323.2,215.7L323.2,215.7z"/>
+		<circle id="path966" class="st3" cx="323.2" cy="228.1" r="18.1"/>
+	</g>
+	<g id="g968_00000069364293554385438210000001519114635397327293_" transform="translate(98.843775,21.56214)">
+		<path id="path977_00000153696972809544942230000007286435350461730459_" inkscape:connector-curvature="0" class="st5" d="
+			M323.2,164.7c-6.8,0-12.3,5.5-12.3,12.3c0,4.2,2.1,8.1,5.6,10.3h13.4c3.5-2.3,5.6-6.2,5.6-10.3C335.5,170.3,330,164.7,323.2,164.7
+			L323.2,164.7z"/>
+		<circle id="path966_00000138557674059189246760000000414551500801410191_" class="st3" cx="323.2" cy="177.1" r="18.1"/>
+	</g>
+</g>
+</svg>
